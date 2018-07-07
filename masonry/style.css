@@ -1,0 +1,22 @@
+.container {
+    margin: 100px auto;
+    overflow: hidden;
+    width: 1000px;
+}
+
+.color1 {
+    background: red;
+}
+.color2 {
+    background: green;
+}
+
+.item {
+    width: 200px;
+    padding: 15px;
+    box-sizing: border-box;
+    float: left;
+}
+.item.item2 {
+    width: 400px
+}

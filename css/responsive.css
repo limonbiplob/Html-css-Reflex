@@ -1,0 +1,28 @@
+@media only screen and (min-width: 300px) and (max-width: 767px) {
+    
+    
+    /*  CSS for the selected device */
+    body {
+        background: red
+    }
+    
+    .mkl {
+        width: 300px;
+    }    
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    
+    
+    /*  CSS for the selected device */
+    body {
+        background: red
+    }
+    
+    .mkl {
+        width: 500px;
+    }    
+    
+}
+
